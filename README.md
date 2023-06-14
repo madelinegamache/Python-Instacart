@@ -12,6 +12,7 @@ Instacart has a lot of products with different price tags. Marketing and sales w
 Are there certain types of products that are more popular than others? The marketing and sales teams want to know which departments have the highest frequency of product orders.
 ## Data
 Open source data from Instacart and a fabricated customer data set created for the purpose of this project.
+
 “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from www.instacart.com/datasets/grocery-shopping-2017 via Kaggle
 
 https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b
